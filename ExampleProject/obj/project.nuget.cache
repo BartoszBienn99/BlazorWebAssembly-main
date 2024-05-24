@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mOs8gqLUTQSBTl24IwuO8YjitAbFZY4M7AvyThmEtS/bvdS4RNc9CVQ/AhQ0/MifkmX/ZnGahLbfb/pqp/zY+A==",
+  "dgSpecHash": "JZSKJsv85lXikSauOxAN/SgBp0zt06JXu44knnacMJvhBs4kETmdj7D6cxIQlyn5UBZOkNxqF6xJT/U2PbUceQ==",
   "success": true,
-  "projectFilePath": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\BlazorWebAssembly-main.csproj",
+  "projectFilePath": "D:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\ExampleProject\\BlazorWebAssembly-main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\microsoft.aspnetcore.components.7.0.10.nupkg.sha512",
