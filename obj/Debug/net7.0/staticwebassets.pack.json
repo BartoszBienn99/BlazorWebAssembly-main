@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\obj\\Debug\\net7.0\\build-gz\\X5vHlt0l.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\obj\\Debug\\net7.0\\scopedcss\\bundle\\BlazorWebAssembly-main.styles.css",
+      "PackagePath": "staticwebassets\\BlazorWebAssembly-main.styles.css"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "d:\\onedrive\\Desktop\\Studia Bartek\\BlazorWebAssembly-main\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BlazorWebAssembly-main.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BlazorWebAssembly-main.props",
+      "PackagePath": "build\\BlazorWebAssembly-main.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWebAssembly-main.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWebAssembly-main.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BlazorWebAssembly-main.props",
+      "PackagePath": "buildTransitive\\BlazorWebAssembly-main.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
